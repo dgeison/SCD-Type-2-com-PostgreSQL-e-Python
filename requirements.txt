@@ -13,6 +13,9 @@ sqlalchemy>=2.0.0
 # Environment Configuration
 python-dotenv>=1.0.0
 
+# Data Generation
+faker>=19.0.0
+
 # Jupyter Notebook Support
 jupyter>=1.0.0
 jupyterlab>=4.0.0
